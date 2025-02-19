@@ -15,11 +15,23 @@
                 font-family: 'Times New Roman', Times, serif;
                 font-weight: bold;
             }
+            p{
+                color:ghostwhite;
+                font-family: 'Times New Roman', Times, serif;
+            }
         </style>
     </head>
     <body>
         <h1>
             You begin in a dark wood...
         </h1>
+        <p>
+            Are you:
+        </p>
+        <ul>
+            The child in a red cloak
+            The child in a yellow cloak
+            <span style="color:black;">The man in a black cloak</span>
+        </ul>
     </body>
 </html>
