@@ -18,8 +18,8 @@
         </style>
     </head>
     <body>
-        h1{
+        <h1>
             You begin in a dark wood...
-        }
+        </h1>
     </body>
 </html>
