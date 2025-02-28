@@ -1,0 +1,55 @@
+body{
+    background-color:black;
+    color:ghostwhite;
+    font-family:'Times New Roman', Times, serif;
+    background-image:url('https://images.unsplash.com/photo-1630695230041-8909e3204778?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-attachment:cover;
+    margin:20px;
+}
+
+a:link a:visited{
+    color:yellow;
+    background-color:transparent;
+}
+
+p{
+    color:ghostwhite;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.yellow1{
+    margin-top:5%;
+    margin-left:5%;
+}
+
+.yellow2{
+    margin-top:10%;
+    margin-left:5%;
+}
+
+.yellow3{
+    margin-top:15%;
+    margin-left:5%;
+}
+
+.yellow4{
+    margin-top:20%;
+    margin-left:5%;
+}
+
+.yellow5{
+    margin-top:25%;
+    margin-left:5%
+}
+
+.yellow6{
+    margin-top:30%;
+    margin-left:5%;
+}
+
+.yellow7{
+    margin-top:35;
+    margin-left:5%;
+}
