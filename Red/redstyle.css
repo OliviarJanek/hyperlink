@@ -14,8 +14,9 @@ p{
     margin-right:50%;
 }
 
-a:link a:visited{
-   color:darkred; 
+a{
+   color:red;
+   background-color:transparent; 
 }
 
 .red1{

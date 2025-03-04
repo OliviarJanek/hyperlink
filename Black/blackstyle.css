@@ -14,8 +14,9 @@ p{
     font-family: 'Times New Roman', Times, serif;
 }
 
-a:link a:visited{
+a{
     color:black;
+    background-color:transparent;
 }
 
 .black1{

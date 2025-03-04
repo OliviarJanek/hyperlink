@@ -9,7 +9,7 @@ body{
 
 }
 
-a:link a:visited{
+a{
     color:yellow;
     background-color:transparent;
 }
